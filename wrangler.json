@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sinkronisasi",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4591b599-46be-4e54-b53e-111f78c3a5f3",
+			"database_name": "sinkronisasi"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
